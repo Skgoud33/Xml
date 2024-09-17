@@ -1,0 +1,39 @@
+bikename{
+  font-weight:!important;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: black;
+  display: block;
+
+}
+
+Model {
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: dimgray;
+   display: block;
+}
+
+Year
+{
+  font-weight: normal;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: blue;
+   display: block;
+}
+power{
+	font-size: 14px;
+  color: yellow;
+   display: block;
+      } 
+      brakes{
+font-size: 14px;
+  color: red;
+   display: block;
+      } 
+  FuelCapacity {
+  font-size: 14px;
+  color: seagreen;
+}

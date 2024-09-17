@@ -1,0 +1,28 @@
+<?xml-stylesheet type='text/xsd' href='text/xsd'?>
+<daily>
+	<weekdays>Monday-Friday</weekdays>
+	<wakeup>11am</wakeup>
+	<breakfast>12pm</breakfast>
+	<freshup>1pm</freshup>
+	<curicullaractivies>2-5pm</curicullaractivies>
+	<work>
+		<timimgs>6pm-3am</timimgs>
+		<breaks>
+			<break>
+				<number>1</number>
+				<purpose>Tea</purpose>
+				<time>15 minutes</time>
+			</break>
+			<break>
+				<number>2</number>
+				<purpose>Lunch</purpose>
+				<time>30 minutes</time>
+			</break>
+			<break>
+				<number>3</number>
+				<pupose>Snacks</pupose>
+				<time>15 minutes</time>
+			</break>
+		</breaks>
+	</work>
+</daily>

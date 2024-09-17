@@ -1,0 +1,20 @@
+<education>
+<school>
+<name>Siddhartha High School</name>
+<location>Siddipet, Telangana</location>
+<passedyear>2012-13</passedyear>
+</school>
+<intermediate>
+<name>SMS Junior College</name>
+<location>Siddipet</location>
+<course>MPC</course>
+<passedyear>2013-15</passedyear>
+</intermediate>
+<graduation>
+<name>St. Martin's Engineering College</name>
+<location>Hyderabad,Telangana</location>
+<branch>Mechanical Engineering</branch>
+<passedyear>2015-2019</passedyear>
+</graduation>
+</education>
+

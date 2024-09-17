@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="breakfast.css"?>
+<breakfast>
+	<menulist>
+		<items>
+			ITEMS :-
+			<item1>
+				<name>IDLY  :</name>
+				<price>Rs.30.00</price>
+			</item1>
+			<item2>
+				<name>DOSA  :</name>
+				<price>Rs.40.00</price>
+			</item2>
+
+<item3>
+				<name>POORI  :</name>
+				<price>Rs.45.00</price>
+			</item3>
+
+<item4>
+				<name>UPMA    :</name>
+				<price>Rs.20.00</price>
+			</item4>
+
+<item5>
+				<name>BREAD OMLETTE  :</name>
+				<price>Rs.30.00</price>
+			</item5>
+
+		</items>
+	</menulist>
+</breakfast>

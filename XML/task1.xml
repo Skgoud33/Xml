@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="task1.css"?>
+<!DOCTYPE books SYSTEM "content.dtd">
+<bike>
+	<bikename>Kawasaki</bikename>
+	<model>Ninja 800</model>
+	<year>2020</year>
+	<power>68 HP</power>
+	<breaks>Dual Disc</breaks>
+	<fuelcapacity>30 litres</fuelcapacity>
+</bike>

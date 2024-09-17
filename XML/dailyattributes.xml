@@ -1,0 +1,15 @@
+<daily weekdays="Monday-Friday">
+	<wakeup>11am</wakeup>
+	<breakfast>12pm</breakfast>
+	<freshup>1pm</freshup>
+	<curicullaractivies>2-5pm</curicullaractivies>
+	<work timimgs="6pm-3am">
+		<breaks>
+			<break number="1" purpose="Tea" time="15 minutes"></break>
+			<break number="2" purpose="Lunch" time="30 minutes"></break>
+			<break number="3" purpose="snacks" time="15 minutes"></break>
+			
+			
+		</breaks>
+	</work>
+</daily>

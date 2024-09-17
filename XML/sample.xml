@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?<?xml-stylesheet type="text/css" href="sample.css"?>>
+<!---->
+<sample>
+  <page1>
+  <h1>See discussions, stats, and author profiles for this publication at<href>: https://www.researchgate.net/publication/303523871</href></h1>
+  <h2>ECLAT Algorithm for Frequent Item sets Generation</h2>
+  <article>Article · January 2014</article>
+  <citations>CITATIONS<NO1></NO1>17</citations>
+  <reads>READS<NO2>15,678</NO2></reads>
+  <author>
+    <id>1</id>
+    <h3>author:</h3>
+    <name>Urvashi Bansal</name>
+    <auhtor1>National institute of Technology Jalandhar</auhtor1>
+    <distrubation>14 PUBLICATIONS</distrubation>
+    <copies>85 CITATIONS</copies>
+  </author>
+  <profile>SEE PROFILE</profile>
+  <para>All content following this page was uploaded by Urvashi Bansal on 29 December 2016.</para>
+  <p1>The user has requested enhancement of the downloaded file</p1>
+</page1>
+<page2>
+  <h1>International Journal of Computer Systems (ISSN: 2394-1065), Volume 01– Issue 03, December, 2014 
+Available at http://www.ijcsonline.com/</h1>
+<h2>ECLAT Algorithm for Frequent Itemsets Generation </h2>
+<writter>Manjit Kaur , Urvashi Grag</writter>
+<branch>Computer Science and Technlogy</branch>
+<university>Lovely Professional University</university>
+<location>Phagwara, Punjab, India. </location>
+<side>Abstract<p>The main aim of the research is to generate a new ideas to generate a frequent itemset. Data mining is process of 
+extracting useful information from different sources. Frequent item sets are those items which are frequently occurred. 
+So we use various algorithms for this purpose. Eclat algorithm is data mining algorithm which is used to find frequent 
+items from large amount of database .but apriori algorithm has some limitations so we will try to remove those 
+limitations. In apriori algorithm we need to scan database again and again for finding frequent itemsets, This limitation 
+is reduced by using vertical dataset in eclat. It reduces access time. </p></side>
+<side1>Keywords:<p> Eclat algorithm, vertical database. </p></side1>
+<intro>I INTRODUCTION
+<p>In current scenario, the requirements of the database are
+large respectively. There is drawback in earlier developed
+algorithm is that generate a frequent item sets and it
+generates candidates ser then there is need to parse the
+database only once. But in this paper, the researcher tries to
+reduce the scanning time if database is large. The main rule
+of data mining is to discover all the items that have support
+and confidence greater than or equal to given minimum
+support and confidence. Data mining is also known as
+knowledge discovery. It means that it helps the shopkeeper
+to improve the business strategy to understand which items
+are frequently demanded by particular customer. It helps in
+better business environment. Data mining is method of
+extracting the useful information and knowledge from very
+large amount of data. Eclat algorithms generate frequent
+items only once. Frequent itemsets are those items which
+are frequently occur in the database. There are number of
+algorithms for finding frequent itemsets. Apriori, is basic
+algorithm for finding frequent itemsets. But it take more
+time for finding the frequent itemsets, It needs to scan the
+database again and again which is time consuming process.
+In this algorithm we need to calculate support and
+confidence, so eclat algorithm is developed to remove the
+limitations of Apriori, algorithm. Eclat algorithm uses
+vertical database. By which it need to scan the database
+only once. </p></intro>
+<A>A. Market basket analysis
+<p></p>Market basket analysis is process of finding the buying
+habits of people. Market basket analysis is very useful term
+for improving business strategies. Market basket analysis is
+a data mining techniques for finding the association</A>
+</page2>
+
+</sample>

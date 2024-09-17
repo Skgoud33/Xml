@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<books xmlns="abc.com" xmlns:xsi="xyz.com" xsi:schemaLocation="abc.com books.xsd">
+<bname>bio of cv raman</bname>
+<bauthor>Albert</bauthor>
+<bpublisher>xyz</bpublisher>
+<bnumber>123545</bnumber>
+</books>

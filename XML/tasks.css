@@ -1,0 +1,39 @@
+name {
+	font-size: 35px;
+	padding-left: 20px;
+	padding-right: 20px;
+	display: block;
+	font-weight: 600;
+	color: red;
+}
+registrationnumber {
+	font-size: 35px;
+	padding-left: 20px;
+	padding-right: 20px;
+	display: block;
+}
+empname {
+	font-size: 35px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+empage{
+font-size: 35px;
+	padding-left: 20px;
+	padding-right: 20px;
+	display: block;
+}
+
+empgender{
+font-size: 35px;
+	padding-left: 20px;
+	padding-right: 20px;
+	display: block;
+}
+
+empsalary{
+	font-size: 35px;
+	padding-left: 20px;
+	padding-right: 20px;
+	display: block;
+}

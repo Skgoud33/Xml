@@ -1,0 +1,14 @@
+<?xml-stylesheet type='text/xsd' href='text/xsd'?>
+<Office name="District Magistrate">
+<Place Location="Anakapalli">
+<Collector name="Pattanshetti Ravi Subhash IAS"/>
+<JointCollector name="Medida Jahnavi IAS "/>
+<Distractofficers>
+<officer name="Srinivasa Rao" role="Revenue"/>
+<officer name="Dr.MSVK Balaji" role="DMHO"/>
+<officer name="Sandeep" role=" Project Director DWMA"/>
+<officer name="Mohana Rao" role="Dist Agriculture Officer"/>
+<officer name="Sachidevi" role="Project Director DRDA"/>
+</Distractofficers>
+</Place>
+</Office>

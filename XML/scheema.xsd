@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="abc/XMLSchema" targetNamespace="abc.com" xmlns="xyz.com" elementFormDefault="qualified">
+<xs:element name="books">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="bname" type="xs:string"/>
+<xs:element name="bauthor" type="xs:string"/>
+<xs:element name="bpublisher" type="xs:string"/>
+<xs:element name="bnumber" type="xs:number"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+

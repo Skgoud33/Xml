@@ -1,0 +1,54 @@
+
+<players>
+<player>
+<rank>1</rank>
+<name>Rohith Sharma</name>
+<team>India</team>
+<format>ODI</format>
+<points>928</points>
+<highscore>264</highscore>
+</player>
+<player>
+
+<rank>2</rank>
+<name>Surya Kumar Yadav</name>
+<team>India</team>
+<format>T-20</format>
+<points>881</points>
+<highscore>127</highscore>
+</player>
+<player>
+<rank>3</rank>
+<name>Virat Kohli</name>
+<team>India</team>
+<format>Test</format>
+<points>916</points>
+<highscore>248</highscore>
+</player>
+<player>
+<rank>4</rank>
+<name>AB Devillers</name>
+<team>South Africa</team>
+<format>ODI</format>
+<points>900</points>
+<highscore>164</highscore>
+</player>
+<player>
+
+<rank>5</rank>
+<name>Sehwag</name>
+<team>India</team>
+<format>Test</format>
+<points>854</points>
+<highscore>309</highscore>
+</player>
+<player>
+
+<rank>6</rank>
+<name>Kane</name>
+<team>New Zealand</team>
+<format>Test</format>
+<points>765</points>
+<highscore>275</highscore>
+</player>
+</players>

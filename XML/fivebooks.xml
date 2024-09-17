@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/css" href="fivebooks.css"?>
+<fivebooks>Books list
+	<book1>
+		<title>AS I THINK</title>
+		<author>SWAMI CHINMAYANANDA</author>
+		<publisher>Chinmaya Missios</publisher>
+		<descreption>Dawn Of Our Culture</descreption>
+	</book1>
+	<book2>
+		<title>RIGHT THINKING</title>
+		<author>SWAMI TEJOMAYANANDA</author>
+		<publisher>Chinmaya Missios</publisher>
+		<descreption>Education and Knowledge</descreption>
+	</book2>
+	<book3>
+		<title>VICTORIOUS YOUTH</title>
+		<author>SWAMI TEJOMAYANADA</author>
+		<publisher>Chinmaya Missios</publisher>
+		<descreption>Youth India, An Ideal Youth</descreption>
+	</book3>
+	<book4>
+		<title>TUNE IN THE MIND</title>
+		<author>SWAMI CHINMAYANANDA</author>
+		<publisher>Chinmaya Missios</publisher>
+		<descreption>Japa Yoga</descreption>
+	</book4>
+	<book5>
+		<title>TEAM WORK</title>
+		<author>SWAMI MITRANANDA</author>
+		<publisher>Chinmaya Missios</publisher>
+		<descreption>In all endeavours success depends totally on 'Team Work". The very acronyn of the word 'Team Work'explains. </descreption>
+	</book5>
+</fivebooks>

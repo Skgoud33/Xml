@@ -1,0 +1,31 @@
+<book>
+  <title>The 48 Laws of Power</title>
+  <author>Robert Greene</author>
+  <publisher>A JOOST ELFFERS BOOK</publisher>
+  <edition>1998</edition>
+  <bookstore>
+    <price>Rs.249</price>
+    <format>Hardcover</format>
+    <pages>452</pages>
+    <ISBN>9781861972781</ISBN>
+    <available>Flipkart</available>
+    <rating>4.8/5</rating>
+  </bookstore>
+  <content>
+  <laws>
+    <law>
+      <number>1</number>
+      <name>Never outshine the master</name>
+      <description>Make those above you feel more important and superior</description>
+      <pages>1-7</pages>
+    </law>
+    <law>
+       <number>2</number>
+      <name>Never put too much trust in friends,learn how to use enemies</name>
+      <description>They will betray more quickly</description>
+      <pages>8-15</pages>
+    </law>
+   
+  </laws>
+</content>
+</book>

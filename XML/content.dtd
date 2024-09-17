@@ -1,0 +1,8 @@
+<!ELEMENT content (name, registrationnumber)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT registrationnumber (#PCDATA)>
+<!ELEMENT employeedetails(empname, empage, empgender, empsalary)>
+<!ELEMENT empname (#PCDATA)>
+<!ELEMENT empage (#PCDATA)>
+<!ELEMENT empgender (#PCDATA)>
+<!ELEMENT  empsalary (#PCDATA)>

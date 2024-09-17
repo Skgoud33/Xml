@@ -1,0 +1,7 @@
+<!ELEMENT bike (bikename,model,year,power,breaks,fuelcapacity)
+<!ELEMENT bikename(#PCDATA)>
+<!ELEMENT model(#PCDATA)>
+<!ELEMENT year(#PCDATA)>
+<!ELEMENT power(#PCDATA)>
+<!ELEMENT breaks(#PCDATA)>
+<!ELEMENT fuelcapcity(#PCDATA)>

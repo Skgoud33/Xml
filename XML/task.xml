@@ -1,0 +1,15 @@
+<?xml-model href="http://" schematypens="http://"?>
+<?xml-stylesheet type='text/css' href='tasks.css'?>
+<!DOCTYPE books SYSTEM "content.dtd">
+<content>
+<name>Banda Saikrishna</name>
+<registrationnumber>
+		123456789
+</registrationnumber>
+<employeedetails>
+<empname>Saikrishna</empname>
+<empage>26</empage>
+<empgender>Male</empgender>
+<empsalary>15000</empsalary>
+</employeedetails>
+</content>

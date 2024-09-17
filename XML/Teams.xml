@@ -1,0 +1,33 @@
+<?xml-stylesheet type='text/xsd' href='text/xsd'?>
+<teams>
+	
+<company>Innospherex</company>
+	
+		<manager>Vasu Visam</manager>
+	<trainer>Sudhakar gajja</trainer>
+	<members>
+		<id>1</id>
+		<member>Durga Prasad</member>
+		<role> Team Member</role>
+		<id>2</id>
+		<member>Meghana</member>
+		<role> Team Member</role>
+		<id>3</id>
+		<member>Navya Kumar</member>
+		<role> Team Member</role>
+		<id>4</id>
+		<member>Neelaveni</member>
+		<role> Team Member</role>
+		<id>5</id>
+		<member>Praveen Kumar</member>
+		<role> Team Member</role>
+		<id>6</id>
+		<member>Sai Krishna</member>
+		<role> Team Member</role>
+		<id>7</id>
+		<member>Sandeep</member>
+		<role> Team Member</role>
+	</members>
+
+
+	</teams>
